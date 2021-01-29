@@ -7,6 +7,10 @@
 4. Launch the training script with `python train.py`. 
 
 ## Notes
-- A GPU is highly recommended. 
+- Training on a GPU is highly recommended. 
 - Training time (on a NVidia Titan X GPU) ~ 5m30s
 - Accuracy: ~95.7%
+
+## Acknowledgements
+The code heavily relies on the great article by Raymond Cheng, that you can find [here](https://towardsdatascience.com/bert-text-classification-using-pytorch-723dfb8b6b5b)
+
